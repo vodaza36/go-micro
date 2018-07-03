@@ -18,3 +18,4 @@ My first attempt to build a microservice with the Go-Micro framework
 - gRPC
 - Make
 - Microservices
+- mDNS
